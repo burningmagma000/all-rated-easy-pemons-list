@@ -1,13 +1,13 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "burningmagma",
+        "link": "https://www.youtube.com/@BurningMagma"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Theideakid",
+        "link": "https://www.youtube.com/@theideakid"
     },
     {
         "role": "helper",
@@ -15,13 +15,13 @@
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
+        "role": "dev",
+        "name": "burningmagma",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Theideakid",
+        "link": "https://www.youtube.com/@theideakid"
     }
 ]

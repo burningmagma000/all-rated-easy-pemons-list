@@ -90,10 +90,10 @@
 .page-list .level-container .level .records .hz {
     text-align: end;
 }
-.page-list .meta-container .og a:hover,
+/* .page-list .meta-container .og a:hover,
 .page-list .level-container .level .records a:hover {
     text-decoration: underline;
-}
+} */
 .page-list .meta {
     display: flex;
     flex-direction: column;
