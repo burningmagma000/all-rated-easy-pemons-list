@@ -1,0 +1,15 @@
+{
+    "id": 101647486,
+    "name": "Granite (SpikyGMD)",
+    "author": "SpikyGMD",
+    "creators": ["SpikyGMD"],
+    "verifier": "SpikyGMD",
+    "verification": "https://www.youtube.com/watch?v=F2BJEA5KjbU",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

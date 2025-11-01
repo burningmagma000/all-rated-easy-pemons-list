@@ -1,0 +1,15 @@
+{
+    "id": 114979717,
+    "name": "highscore",
+    "author": "snoozyporo",
+    "creators": ["snoozyporo"],
+    "verifier": "snoozyporo",
+    "verification": "https://www.youtube.com/watch?v=dXilcS6x7q8",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

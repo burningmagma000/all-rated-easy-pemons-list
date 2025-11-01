@@ -1,0 +1,15 @@
+{
+    "id": 121165757,
+    "name": "Galaxy",
+    "author": "AranyaDeCueva",
+    "creators": ["AranyaDeCueva"],
+    "verifier": "AranyaDeCueva",
+    "verification": "https://www.youtube.com/watch?v=fD1ySY11sFk",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

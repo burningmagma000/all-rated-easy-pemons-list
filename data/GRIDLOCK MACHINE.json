@@ -1,0 +1,15 @@
+{
+    "id": 113572545,
+    "name": "GRIDLOCK MACHINE",
+    "author": "mag",
+    "creators": ["KingEggplant987, mag"],
+    "verifier": "mag",
+    "verification": "https://www.youtube.com/watch?v=EaA2q4NkkTE",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

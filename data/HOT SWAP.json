@@ -1,0 +1,15 @@
+{
+    "id": 109496325,
+    "name": "HOT SWAP",
+    "author": "Chloe",
+    "creators": ["Chloe"],
+    "verifier": "Chloe",
+    "verification": "https://www.youtube.com/watch?v=UfoUNKH9NnA",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

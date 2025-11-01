@@ -1,0 +1,15 @@
+{
+    "id": 108806542,
+    "name": "gloop demon",
+    "author": "qalli",
+    "creators": ["qalli"],
+    "verifier": "qalli",
+    "verification": "https://www.youtube.com/watch?v=2TA8GOfXoSM",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

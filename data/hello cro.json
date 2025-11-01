@@ -1,0 +1,15 @@
+{
+    "id": 105980262,
+    "name": "hello cro",
+    "author": "qalli",
+    "creators": ["qalli"],
+    "verifier": "qalli",
+    "verification": "https://www.youtube.com/watch?v=EaA2q4NkkTE",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

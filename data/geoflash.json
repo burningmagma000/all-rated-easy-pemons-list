@@ -1,0 +1,15 @@
+{
+    "id": 97520070,
+    "name": "geoflash",
+    "author": "zaroren",
+    "creators": ["zaroren"],
+    "verifier": "zaroren",
+    "verification": "https://www.youtube.com/watch?v=CtwhIPGqNbI",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

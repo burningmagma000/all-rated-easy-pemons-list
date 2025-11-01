@@ -1,0 +1,15 @@
+{
+    "id": 122327226,
+    "name": "GD Squid Game",
+    "author": "Androxma",
+    "creators": ["Androxma"],
+    "verifier": "Androxma",
+    "verification": "https://www.youtube.com/watch?v=U4n9C5qIx04",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": 114621728,
+    "name": "Go You",
+    "author": "PAHC",
+    "creators": ["PAHC"],
+    "verifier": "PAHC",
+    "verification": "https://www.youtube.com/watch?v=IXUejalvqT8",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
