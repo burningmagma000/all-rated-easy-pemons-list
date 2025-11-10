@@ -1,0 +1,15 @@
+{
+    "id": 110978139,
+    "name": "Stinky Shafts",
+    "author": "cooperishere",
+    "creators": ["cooperishere"],
+    "verifier": "cooperishere",
+    "verification": "https://www.youtube.com/watch?v=nbNOTjtxevo",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

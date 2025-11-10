@@ -1,0 +1,15 @@
+{
+    "id": 120967593,
+    "name": "Rhandoms Arena",
+    "author": "Rhandom",
+    "creators": ["Rhandom"],
+    "verifier": "Rhandom",
+    "verification": "https://www.youtube.com/watch?v=hgZy9mxPrUg",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": 116701141,
+    "name": "Ore clicker II",
+    "author": "GGEasyLvl",
+    "creators": ["GGEasyLvl"],
+    "verifier": "GGEasyLvl",
+    "verification": "https://www.youtube.com/watch?v=qWMArKwvBCQ",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

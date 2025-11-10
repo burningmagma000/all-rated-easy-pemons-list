@@ -1,0 +1,15 @@
+{
+    "id": 112721660,
+    "name": "Pepper",
+    "author": "ThiKn",
+    "creators": ["ThiKn"],
+    "verifier": "ThiKn",
+    "verification": "https://www.youtube.com/watch?v=YCfBzZot-ok",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

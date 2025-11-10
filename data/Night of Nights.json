@@ -1,0 +1,15 @@
+{
+    "id": 112457569,
+    "name": "Night of Nights",
+    "author": "KATALYSM",
+    "creators": ["KATALYSM"],
+    "verifier": "KATALYSM",
+    "verification": "https://www.youtube.com/watch?v=_2q3BR8MIkA",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

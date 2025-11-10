@@ -1,0 +1,15 @@
+{
+    "id": 108748094,
+    "name": "Parabox",
+    "author": "matty2003",
+    "creators": ["matty2003"],
+    "verifier": "matty2003",
+    "verification": "https://www.youtube.com/watch?v=EARDXxRkY2I",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

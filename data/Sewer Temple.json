@@ -1,0 +1,15 @@
+{
+    "id": 110929199,
+    "name": "Sewer Temple",
+    "author": "Xyle",
+    "creators": ["Xyle"],
+    "verifier": "Xyle",
+    "verification": "https://www.youtube.com/watch?v=Jixq9it9b4k",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

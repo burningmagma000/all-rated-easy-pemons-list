@@ -1,0 +1,15 @@
+{
+    "id": 115859487,
+    "name": "Leg snapper",
+    "author": "AdriannShane",
+    "creators": ["AdriannShane"],
+    "verifier": "AdriannShane",
+    "verification": "https://www.youtube.com/watch?v=pFUu49c_Z7c",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

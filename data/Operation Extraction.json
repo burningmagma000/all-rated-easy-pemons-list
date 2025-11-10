@@ -1,0 +1,15 @@
+{
+    "id": 125681724,
+    "name": "Operation Extraction",
+    "author": "KingEggplant987",
+    "creators": ["KingEggplant987"],
+    "verifier": "KingEggplant987",
+    "verification": "https://www.youtube.com/watch?v=QhSqGQhs2vE",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

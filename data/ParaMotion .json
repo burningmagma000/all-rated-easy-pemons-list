@@ -1,0 +1,15 @@
+{
+    "id": 116270952,
+    "name": "ParaMotion ",
+    "author": "Electro",
+    "creators": ["Electro"],
+    "verifier": "Electro",
+    "verification": "https://www.youtube.com/watch?v=iFQaI3_x8Gs",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

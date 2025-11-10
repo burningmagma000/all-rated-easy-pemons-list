@@ -1,0 +1,15 @@
+{
+    "id": 115084216,
+    "name": "PALETTE",
+    "author": "nexter",
+    "creators": ["nexter"],
+    "verifier": "nexter",
+    "verification": "https://www.youtube.com/watch?v=6_fmfbP8oOc",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

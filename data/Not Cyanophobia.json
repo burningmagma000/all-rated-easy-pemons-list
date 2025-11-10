@@ -1,0 +1,15 @@
+{
+    "id": 121475954,
+    "name": "Not Cyanophobia",
+    "author": "FakeHATETAG",
+    "creators": ["FakeHATETAG"],
+    "verifier": "FakeHATETAG",
+    "verification": "https://www.youtube.com/watch?v=TFs7tP_WnqY",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

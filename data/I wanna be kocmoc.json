@@ -1,0 +1,15 @@
+{
+    "id": 105482895,
+    "name": "I wanna be kocmoc",
+    "author": "Tygore",
+    "creators": ["Tygore"],
+    "verifier": "Tygore",
+    "verification": "https://www.youtube.com/watch?v=irtFE6wmZhY",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

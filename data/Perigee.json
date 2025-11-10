@@ -1,0 +1,15 @@
+{
+    "id": 115248055,
+    "name": "Perigee",
+    "author": "Avixel",
+    "creators": ["Avixel, deuteriumm"],
+    "verifier": "Avixel",
+    "verification": "https://www.youtube.com/watch?v=PA_X3FyD2wA",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

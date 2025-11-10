@@ -1,0 +1,15 @@
+{
+    "id": 112344749,
+    "name": "NRG",
+    "author": "mag",
+    "creators": ["mag"],
+    "verifier": "mag",
+    "verification": "https://www.youtube.com/watch?v=O534-mfV1eI",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "id": 108822785,
+    "name": "My World",
+    "author": "GDGrazy",
+    "creators": ["GDGrazy, zatexdoom"],
+    "verifier": "DanyCactus",
+    "verification": "https://www.youtube.com/watch?v=3zKe7Gvaeb0",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

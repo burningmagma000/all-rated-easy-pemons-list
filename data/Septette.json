@@ -1,0 +1,15 @@
+{
+    "id": 114287932,
+    "name": "Septette",
+    "author": "KATALYSM",
+    "creators": ["KATALYSM, MatejWGD"],
+    "verifier": "KATALYSM",
+    "verification": "https://www.youtube.com/watch?v=UeiHeFBSnw0",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

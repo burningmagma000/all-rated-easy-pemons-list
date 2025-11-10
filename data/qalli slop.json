@@ -1,0 +1,15 @@
+{
+    "id": 109715319,
+    "name": "qalli slop",
+    "author": "qalli",
+    "creators": ["qalli"],
+    "verifier": "qalli",
+    "verification": "https://www.youtube.com/watch?v=zjVAAtchpUU",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

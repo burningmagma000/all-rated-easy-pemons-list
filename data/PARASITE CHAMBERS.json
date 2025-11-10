@@ -1,0 +1,15 @@
+{
+    "id": 116270952,
+    "name": "PARASITE CHAMBERS",
+    "author": "Custi",
+    "creators": ["Custi"],
+    "verifier": "Custi",
+    "verification": "https://www.youtube.com/watch?v=mBgK3dGK8y8",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

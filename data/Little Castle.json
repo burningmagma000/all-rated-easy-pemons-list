@@ -1,0 +1,15 @@
+{
+    "id": 107973517,
+    "name": "Little Castle",
+    "author": "Elismirn1",
+    "creators": ["Elismirn1"],
+    "verifier": "Elismirn1",
+    "verification": "https://www.youtube.com/watch?v=lE3o67XcEes",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

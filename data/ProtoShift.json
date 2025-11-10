@@ -1,0 +1,15 @@
+{
+    "id": 113362468,
+    "name": "ProtoShift",
+    "author": "iobeast",
+    "creators": ["iobeast"],
+    "verifier": "iobeast",
+    "verification": "https://www.youtube.com/watch?v=b0--uPCOBwY",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
