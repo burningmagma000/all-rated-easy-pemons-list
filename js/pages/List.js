@@ -89,7 +89,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Submit a screenshot as well as your refresh rate you used for your completion in our Discord server!
+                        Submit a screenshot as well as your refresh rate you used for your completion in the Discord Server!
                     </p>
                 </div>
             </div>
