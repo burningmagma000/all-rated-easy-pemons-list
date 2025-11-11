@@ -1,0 +1,15 @@
+{
+    "id": 127721300,
+    "name": "Lokomotsiya",
+    "author": "StyphonTV",
+    "creators": ["StyphonTV"],
+    "verifier": "StyphonTV",
+    "verification": "https://www.youtube.com/watch?v=uXfV2uxVjBE",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
