@@ -89,7 +89,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Submit a screenshot, your refresh rate you used for your completion, and your in-game username in the Discord Server!
+                        Submit a screenshot of your completion, your refresh rate you used for the completion, and your in-game username in the Discord Server!
                     </p>
                 </div>
             </div>
