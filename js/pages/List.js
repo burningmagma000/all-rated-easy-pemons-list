@@ -50,9 +50,6 @@ export default {
                     <h2>Records</h2>
                     <table class="records">
                         <tr v-for="record in level.records" class="record">
-                            <td class="percent">
-                                <p>{{ record.percent }}%</p>
-                            </td>
                             <td class="user">
                                 <a : class="type-label-lg">{{ record.user }}</a>
                             </td>

@@ -8,7 +8,10 @@
     "records": [
         {
             "user": "WKGames",
-            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "BlazzaGD",
             "hz": 60
         }
     ]
