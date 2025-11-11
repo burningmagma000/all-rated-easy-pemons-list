@@ -1,0 +1,15 @@
+{
+    "id": 108324571,
+    "name": "TOGGLE",
+    "author": "nexter",
+    "creators": ["nexter"],
+    "verifier": "nexter",
+    "verification": "https://www.youtube.com/watch?v=aTLNG2rhGKc",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

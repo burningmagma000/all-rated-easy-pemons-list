@@ -1,0 +1,15 @@
+{
+    "id": 117833546,
+    "name": "Magnet Mayhem",
+    "author": "Tookario",
+    "creators": ["Tookario"],
+    "verifier": "Tookario",
+    "verification": "https://www.youtube.com/watch?v=pJXiWfu09Uw",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

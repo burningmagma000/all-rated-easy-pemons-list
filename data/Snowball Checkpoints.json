@@ -1,0 +1,15 @@
+{
+    "id": 127290819,
+    "name": "Snowball Checkpoints",
+    "author": "FakeHATETAG",
+    "creators": ["FakeHATETAG"],
+    "verifier": "FakeHATETAG",
+    "verification": "https://www.youtube.com/watch?v=1MvkAJEPD0g",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

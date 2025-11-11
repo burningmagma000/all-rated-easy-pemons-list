@@ -1,0 +1,15 @@
+{
+    "id": 109714625,
+    "name": "The Great White Moon",
+    "author": "Xepheron",
+    "creators": ["Xepheron"],
+    "verifier": "Phoenixis",
+    "verification": "https://www.youtube.com/watch?v=WgqlEbvbBIE",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

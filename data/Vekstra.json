@@ -1,0 +1,15 @@
+{
+    "id": 121410921,
+    "name": "Vekstra",
+    "author": "Moonnix",
+    "creators": ["Moonnix"],
+    "verifier": "Moonnix",
+    "verification": "https://www.youtube.com/watch?v=025Hy0EcJU4",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

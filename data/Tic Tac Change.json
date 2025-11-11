@@ -1,0 +1,15 @@
+{
+    "id": 105022862,
+    "name": "Tic Tac Change",
+    "author": "IIyunx18II",
+    "creators": ["IIyunx18II"],
+    "verifier": "IIyunx18II",
+    "verification": "https://www.youtube.com/watch?v=M2KSpolXs_E",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

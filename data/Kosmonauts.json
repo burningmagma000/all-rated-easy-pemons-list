@@ -1,0 +1,15 @@
+{
+    "id": 113697035,
+    "name": "Kosmonauts",
+    "author": "StyphonTV",
+    "creators": ["StyphonTV"],
+    "verifier": "StyphonTV",
+    "verification": "https://www.youtube.com/watch?v=6ZEPq1Q7pXc",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

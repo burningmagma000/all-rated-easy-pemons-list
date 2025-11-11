@@ -1,0 +1,15 @@
+{
+    "id": 124205224,
+    "name": "WHEEL INSUFFERABLE",
+    "author": "SpotL",
+    "creators": ["SpotL"],
+    "verifier": "SpotL",
+    "verification": "https://www.youtube.com/watch?v=6nyhbA1TFP4",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

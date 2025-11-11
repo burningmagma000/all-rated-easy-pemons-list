@@ -1,0 +1,15 @@
+{
+    "id": 109683406,
+    "name": "SYNOPSIS",
+    "author": "dkitey",
+    "creators": ["dkitey"],
+    "verifier": "dkitey",
+    "verification": "https://www.youtube.com/watch?v=anA-_Moqo0Q",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

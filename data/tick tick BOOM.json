@@ -1,0 +1,15 @@
+{
+    "id": 126978656,
+    "name": "tick tick BOOM",
+    "author": "GHHH",
+    "creators": ["GHHH, KingEggplant987, YESEvoi"],
+    "verifier": "GHHH",
+    "verification": "https://www.youtube.com/watch?v=qBx6cF8K1e4",
+    "records": [
+        {
+            "user": "WKGames",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
