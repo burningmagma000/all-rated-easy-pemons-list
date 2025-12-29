@@ -5,7 +5,8 @@
     "creators": ["Bjh6078"],
     "verifier": "Bjh6078",
     "verification": "https://www.youtube.com/watch?v=4zbN8RyJ00E",
-    "records": [
+    "records": 
+    [
         {
             "user": "WKGames",
             "hz": 60
@@ -16,6 +17,14 @@
         },
         {
             "user": "1234rester",
+            "hz": 60
+        },
+        {
+            "user": "mariokirby1703",
+            "hz": 240
+        },
+        {
+            "user": "POKEMONGD24",
             "hz": 60
         }
     ]

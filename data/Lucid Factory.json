@@ -5,9 +5,18 @@
     "creators": ["Frankie11998"],
     "verifier": "Frankie11998",
     "verification": "https://www.youtube.com/watch?v=6fYPj0kxNoM",
-    "records": [
+    "records": 
+    [
         {
             "user": "WKGames",
+            "hz": 60
+        },
+        {
+            "user": "mariokirby1703",
+            "hz": 240
+        },
+        {
+            "user": "POKEMONGD24",
             "hz": 60
         }
     ]

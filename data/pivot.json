@@ -5,9 +5,18 @@
     "creators": ["orots"],
     "verifier": "orots",
     "verification": "https://www.youtube.com/watch?v=wGUXfF3r3GE",
-    "records": [
+    "records": 
+    [
         {
             "user": "WKGames",
+            "hz": 60
+        },
+        {
+            "user": "mariokirby1703",
+            "hz": 240
+        },
+        {
+            "user": "POKEMONGD24",
             "hz": 60
         }
     ]

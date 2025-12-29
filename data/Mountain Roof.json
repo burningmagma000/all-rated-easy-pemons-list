@@ -5,9 +5,18 @@
     "creators": ["theideakid"],
     "verifier": "theideakid",
     "verification": "https://www.youtube.com/watch?v=3G8jn6iVpTg",
-    "records": [
+    "records": 
+    [
         {
             "user": "WKGames",
+            "hz": 60
+        },
+        {
+            "user": "mariokirby1703",
+            "hz": 240
+        },
+        {
+            "user": "POKEMONGD24",
             "hz": 60
         }
     ]

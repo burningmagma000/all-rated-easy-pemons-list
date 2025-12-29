@@ -5,9 +5,18 @@
     "creators": ["SpikyGMD"],
     "verifier": "SpikyGMD",
     "verification": "https://www.youtube.com/watch?v=F2BJEA5KjbU",
-    "records": [
+    "records": 
+    [
         {
             "user": "WKGames",
+            "hz": 60
+        },
+        {
+            "user": "mariokirby1703",
+            "hz": 240
+        },
+        {
+            "user": "POKEMONGD24",
             "hz": 60
         }
     ]
